@@ -82,17 +82,17 @@ Creation of insightful and interactive visualizations using Tableau
 ## Visual Insights 📊
 
 **EDA**
-`![Alt]("Charts/dist_clients_agegroup_tenure.png")`
+![Alt](Charts/dist_clients_agegroup_tenure.png)
 
-`![Alt]("Charts/calls_vs_logons.png")`
+![Alt](Charts/calls_vs_logons.png)
 
 
 **KPIs**
-`![Alt]("Charts/completion_rate_by_variation.png")`
+![Alt](Charts/completion_rate_by_variation.png)
 
-`![Alt]("Charts/time_spent_per_process.png")`
+![Alt](Charts/time_spent_per_process.png)
 
-`![Alt]("Charts/repeating_steps.png")`
+![Alt](Charts/repeating_steps.png)
 
 
 
